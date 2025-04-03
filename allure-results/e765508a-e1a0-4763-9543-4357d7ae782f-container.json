@@ -1,0 +1,1 @@
+{"uuid":"e765508a-e1a0-4763-9543-4357d7ae782f","name":"com.aqa.AQA_project.UserApiTests","children":["4d8cd3ad-7d37-407a-9506-a24ea8388fb4"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1742940168043,"stop":1742940168172}],"afters":[],"start":1742940168033,"stop":1742940168300}
